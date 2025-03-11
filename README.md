@@ -2,8 +2,8 @@
 
 * Gonna escape the Matrix(9-5),can join me.
 
-# ONGOING---
-Name | Description
+# ONGOING PROJECTS
+Name | Refferal
 ------------ | ------------
 LAYEREDGE NETWORK | Here's the referral code you'll need to access the dashboard: 00kTR11X)
 MONAD LAYER1 NETWORK
