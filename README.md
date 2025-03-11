@@ -17,4 +17,4 @@ ONGOING---
 -FUNCTOR NETWORK-(https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3q90wn20b8uqv1blx8qam0i)
 -BLOCKMESH NETWORK-(https://app.blockmesh.xyz/register?invite_code=10e7e24b-2b4a-453d-a7a2-493d9bd0ef89)
 -CHAINBASE(https://genesis.chainbase.com/referral?referral_code=H2ODCMAZJ)
--HUMANITY PROTOCOL(testnet.humanity.org/login?ref=ganesh2816)
+-HUMANITY PROTOCOL(testnet.humanity.org/login?ref=ganesh2816) 
