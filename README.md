@@ -1,6 +1,10 @@
 # WEB3-ONGOING
-Gonna escape the Matrix(9-5),can join me.
-ONGOING---
+
+*Gonna escape the Matrix(9-5),can join me.
+
+#ONGOING---
+Name | Description
+------------ | ------------
 -LAYEREDGE NETWORK(Here's the referral code you'll need to access the dashboard: 00kTR11X)
 -MONAD LAYER1 NETWORK
 -SAHARA AI
