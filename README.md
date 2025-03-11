@@ -1,4 +1,4 @@
-# WEB3-ONGOING
+# Crypto Projects
 
 * Gonna escape the Matrix(9-5),can join me.
 
