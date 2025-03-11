@@ -5,11 +5,11 @@
 # ONGOING---
 Name | Description
 ------------ | ------------
--LAYEREDGE NETWORK(Here's the referral code you'll need to access the dashboard: 00kTR11X)
+LAYEREDGE NETWORK | Here's the referral code you'll need to access the dashboard: 00kTR11X)
 -MONAD LAYER1 NETWORK
 -SAHARA AI
--BLESS NETWORK(https://bless.network/dashboard?ref=25NQ72)
--3DOS(https://dashboard.3dos.ioregister?ref_code=79e0c9)
+-BLESS NETWORK | https://bless.network/dashboard?ref=25NQ72
+-3DOS | https://dashboard.3dos.ioregister?ref_code=79e0c9
 -DAWN NETWORK(Here's the referral code you'll need to access the dashboard : 8fjib0sa)
 -NAORIS PROTOCOL(Here's the referral code you'll need to access the dashboard: tiCs0xutnFY3yNyt)
 -PUBLIC AI(https://beta.publicai.io/?r=Vprlq)
